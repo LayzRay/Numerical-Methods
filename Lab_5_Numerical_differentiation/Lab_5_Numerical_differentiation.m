@@ -22,7 +22,7 @@ end
 figure
 plot(x,y)
 grid on
-title("График функции")
+title("Р“СЂР°С„РёРє С„СѓРЅРєС†РёРё")
 
 
 eps = 0.1 * max(abs(y));
